@@ -1,0 +1,43 @@
+{
+  "categories": [
+    "Founders Rail District - Western Continent", "Hyperborea Rail District", "Imperial Rail District", "Karydia Rail District - Karydia", "Southsea Rail District", "Bay Rail District"
+  ],
+  "stations": [
+    {"name": "North Africa", "dest": "founders northafrica", "category": "Founders Rail District - Western Continent"},
+    {"name": "Ostersund Rail Depot", "dest": "hyperborea ostersund", "category": "Hyperborea Rail District"},
+    {"name": "Old Esberg, Vouxia", "dest": "hyperborea esberg", "category": "Hyperborea Rail District"},
+    {"name": "Vanaheim", "dest": "hyperborea vanaheim", "category": "Hyperborea Rail District"},
+    {"name": "New Callisto (Capital)", "dest": "imperial newcallisto", "category": "Imperial Rail District"},
+    {"name": "New Felicity, Nalora", "dest": "imperial feline", "category": "Imperial Rail District"},
+    {"name": "Aethia, Godhaven", "dest": "imperial aethia", "category": "Imperial Rail District"},
+    {"name": "Ohio, Godhaven", "dest": "imperial godhaven", "category": "Imperial Rail District"},
+    {"name": "Halland", "dest": "imperial halland", "category": "Imperial Rail District"},
+    {"name": "Pride Rock", "dest": "imperial priderock", "category": "Imperial Rail District"},
+    {"name": "Soderrike", "dest": "imperial soderrike", "category": "Imperial Rail District"},
+    {"name": "Kodiak, Nalora", "dest": "imperial nalora", "category": "Imperial Rail District"},
+    {"name": "Regensburg", "dest": "imperial regensburg", "category": "Imperial Rail District"},
+    {"name": "Joseon", "dest": "karydia kilahijo", "category": "Karydia Rail District - Karydia"},
+    {"name": "San Rafael", "dest": "Karydia Sanrafael", "category": "Karydia Rail District - Karydia"},
+    {"name": "Arlington", "dest": "Karydia Maygouw Arlington", "category": "Karydia Rail District - Karydia"},
+    {"name": "Reggio", "dest": "Karydia Reggio", "category": "Karydia Rail District - Karydia"},
+    {"name": "Slum town", "dest": "Karydia Unity", "category": "Karydia Rail District - Karydia"},
+    {"name": "Mushroom island", "dest": "Karydia Carolina", "category": "Karydia Rail District - Karydia"},
+    {"name": "Icarus", "dest": "Karydia Icarus", "category": "Karydia Rail District - Karydia"},
+    {"name": "Anor Londo X", "dest": "southsea anorlondox", "category": "Southsea Rail District"},
+    {"name": "Freeport, Pride Isle", "dest": "southsea freeport", "category": "Southsea Rail District"},
+    {"name": "Accompong Town, Grenada", "dest": "southsea grenada", "category": "Southsea Rail District"},
+    {"name": "Venozia, Venne", "dest": "southsea venozia", "category": "Southsea Rail District"},
+    {"name": "Maugate", "dest": "southsea maugate", "category": "Southsea Rail District"},
+    {"name": "Groveheart", "dest": "bay groveheart", "category": "Bay Rail District"},
+    {"name": "Withervale", "dest": "bay withervale", "category": "Bay Rail District"},
+    {"name": "Vermont", "dest": "bay vermont", "category": "Bay Rail District"},
+    {"name": "New Haven", "dest": "bay newhaven", "category": "Bay Rail District"},
+    {"name": "Thule", "dest": "bay thule", "category": "Bay Rail District"},
+    {"name": "Voldi", "dest": "´bay voldi", "category": "Bay Rail District"},
+    {"name": "Surmadri", "dest": "bay oldsurmadri", "category": "Bay Rail District"},
+    {"name": "Burlington, Vermont", "dest": "bay vermont", "category": "Bay Rail District"},
+    {"name": "Brunsvik, Salerno", "dest": "bay brunsvik", "category": "Bay Rail District"},
+    {"name": "Vallstena, Gotland", "dest": "bay vallstena", "category": "Bay Rail District"}
+  ]
+}
+
