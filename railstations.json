@@ -61,7 +61,7 @@
     {"name": "Surmadri", "dest": "deluvia bay oldsurmadri", "category": "Bay Rail District"},
     {"name": "Burlington, Voldi", "dest": "deluvia bay vermont", "category": "Bay Rail District"},
     {"name": "Brunsvik, Salerno", "dest": "deluvia bay brunsvik", "category": "Bay Rail District"},
-    {"name": "Vallstena, Gotland", "dest": "deluvia bay vallstena", "category": "Bay Rail District"}
+    {"name": "Vallstena, Gotland", "dest": "deluvia bay vallstena", "category": "Bay Rail District"},
     {"name": "Prosperia", "dest": "deluvia bay prosperia", "category": "Bay Rail District"}
   ]
 }
